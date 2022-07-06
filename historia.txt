@@ -1,3 +1,5 @@
 Hola. Este es mi archivo introductorio al mundo de GIT
 
 tengo 28 años y naci en México.
+
+En camara parece gordo pero no es, tanto...
